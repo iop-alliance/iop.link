@@ -8,6 +8,8 @@
 - https://iop.link/okh
 - https://iop.link/github
 - https://iop.link/git
+- https://iop.link/standards
+- https://iop.link/s
 
 ## How to add a link
 
