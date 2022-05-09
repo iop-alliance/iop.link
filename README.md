@@ -10,6 +10,8 @@
 - https://iop.link/git
 - https://iop.link/standards
 - https://iop.link/s
+- https://iop.link/forum
+- https://iop.linkhttps://community.internetofproduction.org//com
 
 ## How to add a link
 
