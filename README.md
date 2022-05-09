@@ -11,7 +11,7 @@
 - https://iop.link/standards
 - https://iop.link/s
 - https://iop.link/forum
-- https://iop.linkhttps://community.internetofproduction.org//com
+- https://iop.link/com
 
 ## How to add a link
 
