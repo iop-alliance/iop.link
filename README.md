@@ -5,6 +5,7 @@
 - https://iop.link
 - https://iop.link/ec
 - https://iop.link/okw
+- https://iop.link/okw-spec
 - https://iop.link/okh
 - https://iop.link/okh-spec
 - https://iop.link/github
