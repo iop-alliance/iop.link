@@ -4,6 +4,7 @@
 
 - https://iop.link
 - https://iop.link/ec
+- https://iop.link/ec-purpose
 - https://iop.link/okw
 - https://iop.link/okw-spec
 - https://iop.link/okh
@@ -14,6 +15,7 @@
 - https://iop.link/s
 - https://iop.link/forum
 - https://iop.link/com
+
 
 ## How to add a link
 
